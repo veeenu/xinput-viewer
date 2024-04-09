@@ -1,0 +1,5 @@
+[alias]
+c = "clippy"
+lc = "xwin clippy --target x86_64-pc-windows-msvc"
+b = "build --release"
+lb = "xwin build --target x86_64-pc-windows-msvc --release"
